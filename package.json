@@ -1,0 +1,33 @@
+{
+  "name": "express-makeirreal-9",
+  "version": "1.0.0",
+  "description": "Ejercicio Visitantes recurrentes express make it real",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateomunozb/express-makeireal-9.git"
+  },
+  "keywords": [
+    "express",
+    "count",
+    "query",
+    "string"
+  ],
+  "author": "Mateo Muñoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateomunozb/express-makeireal-9/issues"
+  },
+  "homepage": "https://github.com/mateomunozb/express-makeireal-9#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6",
+    "nodemon": "^2.0.4"
+  }
+}
